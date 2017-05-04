@@ -1,3 +1,3 @@
-# Valentia 3D Printer
+# Valentia Case-Rap 3D Printer
 
 GNU / GPL
