@@ -5,7 +5,9 @@ From the original design only the general division / parts of the wooden structu
 
 Documentation is ongoing, but sources (Sketchup Make file and configured Marlin firmware) are pre-released on the releases section.
 
-Current stable pre-release is v0.3.
+Current stable release is v0.5.
+
+Wooden chassis build steps: https://vimeo.com/299457611
 
 More info:
 
