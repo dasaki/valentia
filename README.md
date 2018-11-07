@@ -13,6 +13,7 @@ Wooden chassis build steps: https://vimeo.com/299457611
 More info:
 
 http://www.reprap.org/wiki/Valentia
+
 https://therandomlab.blogspot.com.es/search/label/valentia
 
 Released under the GNU GENERAL PUBLIC LICENSE Version 3.
