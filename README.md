@@ -18,4 +18,7 @@ https://therandomlab.blogspot.com.es/search/label/valentia
 
 Released under the GNU GENERAL PUBLIC LICENSE Version 3.
 
+![pic_white][pic_white]
+
 [3Dview]:https://raw.githubusercontent.com/dasaki/valentia/master/hardware/3D_view.png
+[pic_white]:https://raw.githubusercontent.com/dasaki/valentia/master/hardware/pictures/20181112_175155.jpg
